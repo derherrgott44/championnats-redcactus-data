@@ -1,0 +1,542 @@
+{
+  "id": 9975,
+  "name": "Bubar - Mercredi",
+  "semiFinalNQualified": 1,
+  "bar": {
+    "id": 1976,
+    "name": "Bubar",
+    "isPremium": false
+  },
+  "startDate": "2026-09-07T00:00:00+02:00",
+  "endDate": "2027-01-10T00:00:00+01:00",
+  "hasPlayoff": true,
+  "ranking": [
+    {
+      "playerId": 17683,
+      "rank": 1,
+      "points": 200,
+      "isPlatinum": false,
+      "username": "rylorin",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 41571,
+      "rank": 2,
+      "points": 150,
+      "isPlatinum": false,
+      "username": "Uruk-Hai",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 86554,
+      "rank": 3,
+      "points": 130,
+      "isPlatinum": false,
+      "username": "Elvira",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 79831,
+      "rank": 4,
+      "points": 120,
+      "isPlatinum": false,
+      "username": "Vo2ka",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 94115,
+      "rank": 5,
+      "points": 100,
+      "isPlatinum": false,
+      "username": "MorozBuran",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 82206,
+      "rank": 6,
+      "points": 90,
+      "isPlatinum": false,
+      "username": "Saytam",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 97553,
+      "rank": 7,
+      "points": 90,
+      "isPlatinum": false,
+      "username": "Ddddur",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 86553,
+      "rank": 8,
+      "points": 80,
+      "isPlatinum": false,
+      "username": "Canelle",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 97904,
+      "rank": 9,
+      "points": 80,
+      "isPlatinum": false,
+      "username": "lapeuf",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 47810,
+      "rank": 10,
+      "points": 80,
+      "isPlatinum": false,
+      "username": "Samsam44",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 36582,
+      "rank": 11,
+      "points": 70,
+      "isPlatinum": false,
+      "username": "Olivius",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 95987,
+      "rank": 12,
+      "points": 70,
+      "isPlatinum": false,
+      "username": "SuperMichel!",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 18244,
+      "rank": 13,
+      "points": 60,
+      "isPlatinum": false,
+      "username": "BARRLEM67",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 2237,
+      "rank": 14,
+      "points": 40,
+      "isPlatinum": false,
+      "username": "Mastermind",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 87909,
+      "rank": 15,
+      "points": 40,
+      "isPlatinum": false,
+      "username": "Harrylahache",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 76387,
+      "rank": 16,
+      "points": 30,
+      "isPlatinum": false,
+      "username": "Xelmis",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 86924,
+      "rank": 17,
+      "points": 20,
+      "isPlatinum": false,
+      "username": "Forest Rabbit",
+      "nPlayed": 1
+    }
+  ],
+  "tourneys": [
+    {
+      "id": 129622,
+      "startDate": 1788975000,
+      "ranking": [
+        {
+          "playerId": 82206,
+          "rank": 1,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Saytam"
+        },
+        {
+          "playerId": 2237,
+          "rank": 2,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Mastermind"
+        },
+        {
+          "playerId": 17683,
+          "rank": 3,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "rylorin"
+        },
+        {
+          "playerId": 41571,
+          "rank": 4,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        }
+      ]
+    },
+    {
+      "id": 129623,
+      "startDate": 1789579800,
+      "ranking": [
+        {
+          "playerId": 94115,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "MorozBuran"
+        },
+        {
+          "playerId": 17683,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "rylorin"
+        },
+        {
+          "playerId": 41571,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 82206,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Saytam"
+        },
+        {
+          "playerId": 95987,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "SuperMichel!"
+        }
+      ]
+    },
+    {
+      "id": 129624,
+      "startDate": 1790184600,
+      "ranking": [
+        {
+          "playerId": 97553,
+          "rank": 1,
+          "points": 90,
+          "isPlatinum": false,
+          "username": "Ddddur"
+        },
+        {
+          "playerId": 36582,
+          "rank": 2,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "Olivius"
+        },
+        {
+          "playerId": 18244,
+          "rank": 3,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "BARRLEM67"
+        },
+        {
+          "playerId": 17683,
+          "rank": 4,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "rylorin"
+        },
+        {
+          "playerId": 87909,
+          "rank": 5,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Harrylahache"
+        },
+        {
+          "playerId": 41571,
+          "rank": 6,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 79831,
+          "rank": 7,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "Vo2ka"
+        }
+      ]
+    },
+    {
+      "id": 129625,
+      "startDate": 1790789400,
+      "ranking": [
+        {
+          "playerId": 86554,
+          "rank": 1,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "Elvira"
+        },
+        {
+          "playerId": 86553,
+          "rank": 2,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Canelle"
+        },
+        {
+          "playerId": 95987,
+          "rank": 3,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "SuperMichel!"
+        },
+        {
+          "playerId": 47810,
+          "rank": 4,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Samsam44"
+        },
+        {
+          "playerId": 76387,
+          "rank": 5,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Xelmis"
+        },
+        {
+          "playerId": 86924,
+          "rank": 6,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "Forest Rabbit"
+        }
+      ]
+    },
+    {
+      "id": 129626,
+      "startDate": 1791394200,
+      "ranking": [
+        {
+          "playerId": 79831,
+          "rank": 1,
+          "points": 100,
+          "isPlatinum": false,
+          "username": "Vo2ka"
+        },
+        {
+          "playerId": 97904,
+          "rank": 2,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "lapeuf"
+        },
+        {
+          "playerId": 17683,
+          "rank": 3,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "rylorin"
+        },
+        {
+          "playerId": 41571,
+          "rank": 4,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 86554,
+          "rank": 5,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "Elvira"
+        },
+        {
+          "playerId": 47810,
+          "rank": 6,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Samsam44"
+        },
+        {
+          "playerId": 94115,
+          "rank": 7,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "MorozBuran"
+        },
+        {
+          "playerId": 86553,
+          "rank": 8,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "Canelle"
+        }
+      ]
+    },
+    {
+      "id": 129627,
+      "startDate": 1791999000,
+      "ranking": []
+    },
+    {
+      "id": 129628,
+      "startDate": 1792603800,
+      "ranking": []
+    },
+    {
+      "id": 129629,
+      "startDate": 1793212200,
+      "ranking": []
+    },
+    {
+      "id": 129630,
+      "startDate": 1793817000,
+      "ranking": []
+    },
+    {
+      "id": 129631,
+      "startDate": 1794421800,
+      "ranking": []
+    },
+    {
+      "id": 129632,
+      "startDate": 1795026600,
+      "ranking": []
+    },
+    {
+      "id": 129633,
+      "startDate": 1795631400,
+      "ranking": []
+    },
+    {
+      "id": 129634,
+      "startDate": 1796236200,
+      "ranking": []
+    },
+    {
+      "id": 129635,
+      "startDate": 1796841000,
+      "ranking": []
+    },
+    {
+      "id": 129636,
+      "startDate": 1797445800,
+      "ranking": []
+    },
+    {
+      "id": 129637,
+      "startDate": 1798050600,
+      "ranking": []
+    },
+    {
+      "id": 129638,
+      "startDate": 1798655400,
+      "ranking": []
+    }
+  ],
+  "alreadyQualified": [
+    93403,
+    78428
+  ],
+  "playoffDate": "2027-01-06T19:30:00+01:00",
+  "playoffRanking": [
+    {
+      "playerId": 41571,
+      "rank": 2,
+      "championshipRank": 2,
+      "isPlatinum": false,
+      "username": "Uruk-Hai",
+      "initialStack": 1100,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 86554,
+      "rank": 3,
+      "championshipRank": 3,
+      "isPlatinum": false,
+      "username": "Elvira",
+      "initialStack": 800,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 79831,
+      "rank": 4,
+      "championshipRank": 4,
+      "isPlatinum": false,
+      "username": "Vo2ka",
+      "initialStack": 750,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 94115,
+      "rank": 5,
+      "championshipRank": 5,
+      "isPlatinum": false,
+      "username": "MorozBuran",
+      "initialStack": 700,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 82206,
+      "rank": 6,
+      "championshipRank": 6,
+      "isPlatinum": false,
+      "username": "Saytam",
+      "initialStack": 700,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 97553,
+      "rank": 7,
+      "championshipRank": 7,
+      "isPlatinum": false,
+      "username": "Ddddur",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 86553,
+      "rank": 8,
+      "championshipRank": 8,
+      "isPlatinum": false,
+      "username": "Canelle",
+      "initialStack": 700,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 97904,
+      "rank": 9,
+      "championshipRank": 9,
+      "isPlatinum": false,
+      "username": "lapeuf",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    }
+  ],
+  "playoffFinished": false,
+  "playoffMaxRank": 9
+}
