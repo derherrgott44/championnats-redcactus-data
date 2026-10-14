@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:16:43.599Z",
+  "updatedAt": "2026-10-14T07:16:55.988Z",
   "players": {
     "18801": {
       "playerId": 18801,
@@ -73,6 +73,14 @@
       "standardDeviation": 32.65,
       "incomplete": false,
       "updatedAt": "2026-10-14T07:15:16.176Z"
+    },
+    "80420": {
+      "playerId": 80420,
+      "username": "ritchy",
+      "tournamentCount": 19,
+      "standardDeviation": 28.76,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:16:55.988Z"
     },
     "81649": {
       "playerId": 81649,
@@ -211,6 +219,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 11,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:16:55.988Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 12,
       "reason": "seuils_provisoires"
     }
   ]
