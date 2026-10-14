@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:16:55.988Z",
+  "updatedAt": "2026-10-14T07:17:05.948Z",
   "players": {
     "18801": {
       "playerId": 18801,
@@ -9,6 +9,14 @@
       "standardDeviation": 37.96,
       "incomplete": false,
       "updatedAt": "2026-10-14T07:15:45.061Z"
+    },
+    "41455": {
+      "playerId": 41455,
+      "username": "Clyde69",
+      "tournamentCount": 54,
+      "standardDeviation": 34.77,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:17:05.948Z"
     },
     "62455": {
       "playerId": 62455,
@@ -230,6 +238,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 12,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:17:05.948Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 13,
       "reason": "seuils_provisoires"
     }
   ]
