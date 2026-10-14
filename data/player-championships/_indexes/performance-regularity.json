@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:14:54.203Z",
+  "updatedAt": "2026-10-14T07:15:03.770Z",
   "players": {
     "67918": {
       "playerId": 67918,
@@ -17,6 +17,14 @@
       "standardDeviation": 32.43,
       "incomplete": false,
       "updatedAt": "2026-10-14T07:14:43.310Z"
+    },
+    "72882": {
+      "playerId": 72882,
+      "username": "Dav'FJ",
+      "tournamentCount": 50,
+      "standardDeviation": 31.01,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:15:03.770Z"
     },
     "85006": {
       "playerId": 85006,
@@ -59,6 +67,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 3,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:15:03.770Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 4,
       "reason": "seuils_provisoires"
     }
   ]
