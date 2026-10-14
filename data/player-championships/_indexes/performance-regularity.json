@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:15:45.061Z",
+  "updatedAt": "2026-10-14T07:16:00.250Z",
   "players": {
     "18801": {
       "playerId": 18801,
@@ -33,6 +33,14 @@
       "standardDeviation": 32.43,
       "incomplete": false,
       "updatedAt": "2026-10-14T07:14:43.310Z"
+    },
+    "71741": {
+      "playerId": 71741,
+      "username": "loleck",
+      "tournamentCount": 50,
+      "standardDeviation": 29.58,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:16:00.250Z"
     },
     "72882": {
       "playerId": 72882,
@@ -135,6 +143,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 7,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:16:00.250Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 8,
       "reason": "seuils_provisoires"
     }
   ]
