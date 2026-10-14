@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:15:03.770Z",
+  "updatedAt": "2026-10-14T07:15:09.868Z",
   "players": {
     "67918": {
       "playerId": 67918,
@@ -9,6 +9,14 @@
       "standardDeviation": 31.83,
       "incomplete": false,
       "updatedAt": "2026-10-14T07:14:54.203Z"
+    },
+    "68512": {
+      "playerId": 68512,
+      "username": "ZenRiser",
+      "tournamentCount": 90,
+      "standardDeviation": 29.28,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:15:09.868Z"
     },
     "70970": {
       "playerId": 70970,
@@ -78,6 +86,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 4,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:15:09.868Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 5,
       "reason": "seuils_provisoires"
     }
   ]
