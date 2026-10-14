@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:15:16.176Z",
+  "updatedAt": "2026-10-14T07:15:23.370Z",
   "players": {
     "67918": {
       "playerId": 67918,
@@ -48,7 +48,7 @@
       "tournamentCount": 15,
       "standardDeviation": 30.85,
       "incomplete": false,
-      "updatedAt": "2026-10-14T07:14:26.120Z"
+      "updatedAt": "2026-10-14T07:15:23.370Z"
     }
   },
   "calibrationHistory": [
