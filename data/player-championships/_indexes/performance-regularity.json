@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:14:43.310Z",
+  "updatedAt": "2026-10-14T07:14:54.203Z",
   "players": {
+    "67918": {
+      "playerId": 67918,
+      "username": "Aquilon Vilsmis",
+      "tournamentCount": 67,
+      "standardDeviation": 31.83,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:14:54.203Z"
+    },
     "70970": {
       "playerId": 70970,
       "username": "H4ck5n4k3",
@@ -40,6 +48,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 2,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:14:54.203Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 3,
       "reason": "seuils_provisoires"
     }
   ]
