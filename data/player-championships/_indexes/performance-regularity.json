@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T07:12:48.515Z",
+  "updatedAt": "2026-10-14T07:13:08.703Z",
   "players": {
+    "70970": {
+      "playerId": 70970,
+      "username": "H4ck5n4k3",
+      "tournamentCount": 102,
+      "standardDeviation": 32.43,
+      "incomplete": false,
+      "updatedAt": "2026-10-14T07:13:08.703Z"
+    },
     "85006": {
       "playerId": 85006,
       "username": "HalfBeerOneNugget",
@@ -21,6 +29,17 @@
         "q75": 20
       },
       "eligiblePlayerCount": 1,
+      "reason": "seuils_provisoires"
+    },
+    {
+      "at": "2026-10-14T07:13:08.703Z",
+      "calibrated": false,
+      "thresholds": {
+        "q25": 5,
+        "q50": 10,
+        "q75": 20
+      },
+      "eligiblePlayerCount": 2,
       "reason": "seuils_provisoires"
     }
   ]
