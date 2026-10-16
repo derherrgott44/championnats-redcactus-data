@@ -1,0 +1,655 @@
+{
+  "id": 10126,
+  "name": "NOMAD - Dimanche",
+  "semiFinalNQualified": 2,
+  "bar": {
+    "id": 2172,
+    "name": "NOMAD",
+    "isPremium": true
+  },
+  "startDate": "2026-09-07T00:00:00+02:00",
+  "endDate": "2027-01-10T00:00:00+01:00",
+  "hasPlayoff": true,
+  "ranking": [
+    {
+      "playerId": 74270,
+      "rank": 1,
+      "points": 250,
+      "isPlatinum": false,
+      "username": "K1OOO",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 61580,
+      "rank": 2,
+      "points": 190,
+      "isPlatinum": false,
+      "username": "Kailan",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 41571,
+      "rank": 3,
+      "points": 185,
+      "isPlatinum": false,
+      "username": "Uruk-Hai",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 94115,
+      "rank": 4,
+      "points": 170,
+      "isPlatinum": false,
+      "username": "MorozBuran",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 73423,
+      "rank": 5,
+      "points": 150,
+      "isPlatinum": false,
+      "username": "Thib44",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 93607,
+      "rank": 6,
+      "points": 120,
+      "isPlatinum": false,
+      "username": "Dinor",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 57475,
+      "rank": 7,
+      "points": 115,
+      "isPlatinum": false,
+      "username": "arzakian",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 58036,
+      "rank": 8,
+      "points": 105,
+      "isPlatinum": false,
+      "username": "NBC_ZOLA",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 25700,
+      "rank": 9,
+      "points": 100,
+      "isPlatinum": false,
+      "username": "Canass3242",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 96730,
+      "rank": 10,
+      "points": 100,
+      "isPlatinum": false,
+      "username": "corentn",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 79831,
+      "rank": 11,
+      "points": 80,
+      "isPlatinum": false,
+      "username": "Vo2ka",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 76553,
+      "rank": 12,
+      "points": 70,
+      "isPlatinum": false,
+      "username": "Djuloo",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 80166,
+      "rank": 13,
+      "points": 65,
+      "isPlatinum": false,
+      "username": "Dragone666",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 82206,
+      "rank": 14,
+      "points": 50,
+      "isPlatinum": false,
+      "username": "Saytam",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 95987,
+      "rank": 15,
+      "points": 50,
+      "isPlatinum": false,
+      "username": "SuperMichel!",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 16724,
+      "rank": 16,
+      "points": 35,
+      "isPlatinum": false,
+      "username": "Shisha",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 84324,
+      "rank": 17,
+      "points": 35,
+      "isPlatinum": false,
+      "username": "InExtrem1s",
+      "nPlayed": 1
+    }
+  ],
+  "tourneys": [
+    {
+      "id": 132189,
+      "startDate": 1789315200,
+      "ranking": [
+        {
+          "playerId": 73423,
+          "rank": 1,
+          "points": 90,
+          "isPlatinum": false,
+          "username": "Thib44"
+        },
+        {
+          "playerId": 41571,
+          "rank": 2,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 96730,
+          "rank": 3,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "corentn"
+        },
+        {
+          "playerId": 61580,
+          "rank": 4,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "Kailan"
+        },
+        {
+          "playerId": 80166,
+          "rank": 5,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Dragone666"
+        },
+        {
+          "playerId": 74270,
+          "rank": 6,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "K1OOO"
+        },
+        {
+          "playerId": 58036,
+          "rank": 7,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "NBC_ZOLA"
+        }
+      ]
+    },
+    {
+      "id": 132190,
+      "startDate": 1789920000,
+      "ranking": [
+        {
+          "playerId": 25700,
+          "rank": 1,
+          "points": 100,
+          "isPlatinum": false,
+          "username": "Canass3242"
+        },
+        {
+          "playerId": 94115,
+          "rank": 2,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "MorozBuran"
+        },
+        {
+          "playerId": 61580,
+          "rank": 3,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "Kailan"
+        },
+        {
+          "playerId": 73423,
+          "rank": 4,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Thib44"
+        },
+        {
+          "playerId": 82206,
+          "rank": 5,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "Saytam"
+        },
+        {
+          "playerId": 41571,
+          "rank": 6,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 57475,
+          "rank": 7,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "arzakian"
+        },
+        {
+          "playerId": 80166,
+          "rank": 8,
+          "points": 25,
+          "isPlatinum": false,
+          "username": "Dragone666"
+        },
+        {
+          "playerId": 74270,
+          "rank": 9,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "K1OOO"
+        }
+      ]
+    },
+    {
+      "id": 132191,
+      "startDate": 1790524800,
+      "ranking": [
+        {
+          "playerId": 74270,
+          "rank": 1,
+          "points": 100,
+          "isPlatinum": false,
+          "username": "K1OOO"
+        },
+        {
+          "playerId": 79831,
+          "rank": 2,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "Vo2ka"
+        },
+        {
+          "playerId": 58036,
+          "rank": 3,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "NBC_ZOLA"
+        },
+        {
+          "playerId": 94115,
+          "rank": 4,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "MorozBuran"
+        },
+        {
+          "playerId": 41571,
+          "rank": 5,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 93607,
+          "rank": 6,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Dinor"
+        },
+        {
+          "playerId": 84324,
+          "rank": 7,
+          "points": 35,
+          "isPlatinum": false,
+          "username": "InExtrem1s"
+        },
+        {
+          "playerId": 61580,
+          "rank": 8,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Kailan"
+        },
+        {
+          "playerId": 57475,
+          "rank": 9,
+          "points": 25,
+          "isPlatinum": false,
+          "username": "arzakian"
+        },
+        {
+          "playerId": 96730,
+          "rank": 10,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "corentn"
+        }
+      ]
+    },
+    {
+      "id": 132192,
+      "startDate": 1791129600,
+      "ranking": [
+        {
+          "playerId": 74270,
+          "rank": 1,
+          "points": 100,
+          "isPlatinum": false,
+          "username": "K1OOO"
+        },
+        {
+          "playerId": 93607,
+          "rank": 2,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "Dinor"
+        },
+        {
+          "playerId": 76553,
+          "rank": 3,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "Djuloo"
+        },
+        {
+          "playerId": 57475,
+          "rank": 4,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "arzakian"
+        },
+        {
+          "playerId": 95987,
+          "rank": 5,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "SuperMichel!"
+        },
+        {
+          "playerId": 61580,
+          "rank": 6,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Kailan"
+        },
+        {
+          "playerId": 16724,
+          "rank": 7,
+          "points": 35,
+          "isPlatinum": false,
+          "username": "Shisha"
+        },
+        {
+          "playerId": 94115,
+          "rank": 8,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "MorozBuran"
+        },
+        {
+          "playerId": 41571,
+          "rank": 9,
+          "points": 25,
+          "isPlatinum": false,
+          "username": "Uruk-Hai"
+        },
+        {
+          "playerId": 96730,
+          "rank": 10,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "corentn"
+        },
+        {
+          "playerId": 58036,
+          "rank": 11,
+          "points": 15,
+          "isPlatinum": false,
+          "username": "NBC_ZOLA"
+        }
+      ]
+    },
+    {
+      "id": 132194,
+      "startDate": 1792339200,
+      "ranking": []
+    },
+    {
+      "id": 132195,
+      "startDate": 1792947600,
+      "ranking": []
+    },
+    {
+      "id": 132196,
+      "startDate": 1793552400,
+      "ranking": []
+    },
+    {
+      "id": 132197,
+      "startDate": 1794157200,
+      "ranking": []
+    },
+    {
+      "id": 132198,
+      "startDate": 1794762000,
+      "ranking": []
+    },
+    {
+      "id": 132199,
+      "startDate": 1795366800,
+      "ranking": []
+    },
+    {
+      "id": 132200,
+      "startDate": 1795971600,
+      "ranking": []
+    },
+    {
+      "id": 132201,
+      "startDate": 1796576400,
+      "ranking": []
+    },
+    {
+      "id": 132202,
+      "startDate": 1797181200,
+      "ranking": []
+    },
+    {
+      "id": 132203,
+      "startDate": 1797786000,
+      "ranking": []
+    },
+    {
+      "id": 132204,
+      "startDate": 1798390800,
+      "ranking": []
+    },
+    {
+      "id": 132205,
+      "startDate": 1798995600,
+      "ranking": []
+    }
+  ],
+  "alreadyQualified": [
+    93403,
+    78428
+  ],
+  "playoffDate": "2027-01-10T18:00:00+01:00",
+  "playoffRanking": [
+    {
+      "playerId": 41571,
+      "rank": 3,
+      "championshipRank": 3,
+      "isPlatinum": false,
+      "username": "Uruk-Hai",
+      "initialStack": 1250,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 94115,
+      "rank": 4,
+      "championshipRank": 4,
+      "isPlatinum": false,
+      "username": "MorozBuran",
+      "initialStack": 1050,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 73423,
+      "rank": 5,
+      "championshipRank": 5,
+      "isPlatinum": false,
+      "username": "Thib44",
+      "initialStack": 800,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 93607,
+      "rank": 6,
+      "championshipRank": 6,
+      "isPlatinum": false,
+      "username": "Dinor",
+      "initialStack": 750,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 57475,
+      "rank": 7,
+      "championshipRank": 7,
+      "isPlatinum": false,
+      "username": "arzakian",
+      "initialStack": 850,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 58036,
+      "rank": 8,
+      "championshipRank": 8,
+      "isPlatinum": false,
+      "username": "NBC_ZOLA",
+      "initialStack": 850,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 25700,
+      "rank": 9,
+      "championshipRank": 9,
+      "isPlatinum": false,
+      "username": "Canass3242",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 96730,
+      "rank": 10,
+      "championshipRank": 10,
+      "isPlatinum": false,
+      "username": "corentn",
+      "initialStack": 800,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 79831,
+      "rank": 11,
+      "championshipRank": 11,
+      "isPlatinum": false,
+      "username": "Vo2ka",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 76553,
+      "rank": 12,
+      "championshipRank": 12,
+      "isPlatinum": false,
+      "username": "Djuloo",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 80166,
+      "rank": 13,
+      "championshipRank": 13,
+      "isPlatinum": false,
+      "username": "Dragone666",
+      "initialStack": 650,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 82206,
+      "rank": 14,
+      "championshipRank": 14,
+      "isPlatinum": false,
+      "username": "Saytam",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 95987,
+      "rank": 15,
+      "championshipRank": 15,
+      "isPlatinum": false,
+      "username": "SuperMichel!",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 16724,
+      "rank": 16,
+      "championshipRank": 16,
+      "isPlatinum": false,
+      "username": "Shisha",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 84324,
+      "rank": 17,
+      "championshipRank": 17,
+      "isPlatinum": false,
+      "username": "InExtrem1s",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    }
+  ],
+  "playoffFinished": false,
+  "playoffMaxRank": 18
+}
