@@ -251,8 +251,10 @@
     "39": {
       "seasonId": 39,
       "playerId": 18716,
-      "championships": [],
-      "updatedAt": "2026-10-15T08:13:41.010Z"
+      "championships": [
+        "9936"
+      ],
+      "updatedAt": "2026-10-23T13:25:08.958Z"
     }
   }
 }
