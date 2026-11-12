@@ -279,7 +279,7 @@
       "playerId": 35986,
       "rank": 34,
       "points": 30,
-      "isPlatinum": true,
+      "isPlatinum": false,
       "username": "Gringobzh",
       "nPlayed": 1
     },
@@ -961,7 +961,7 @@
           "playerId": 35986,
           "rank": 4,
           "points": 30,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Gringobzh"
         },
         {
