@@ -63,7 +63,7 @@
       "playerId": 840,
       "rank": 7,
       "points": 300,
-      "isPlatinum": true,
+      "isPlatinum": false,
       "username": "gogauth08",
       "nPlayed": 11
     },
@@ -1303,7 +1303,7 @@
       "playerId": 18488,
       "rank": 162,
       "points": 70,
-      "isPlatinum": true,
+      "isPlatinum": false,
       "username": "Parias2013",
       "nPlayed": 7
     },
@@ -2047,7 +2047,7 @@
       "playerId": 25098,
       "rank": 255,
       "points": 35,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "kevinkodama",
       "nPlayed": 2
     },
@@ -4071,7 +4071,7 @@
       "playerId": 35986,
       "rank": 508,
       "points": 10,
-      "isPlatinum": true,
+      "isPlatinum": false,
       "username": "Gringobzh",
       "nPlayed": 1
     },
@@ -6754,7 +6754,7 @@
           "playerId": 840,
           "rank": 197,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -7670,7 +7670,7 @@
           "playerId": 18488,
           "rank": 124,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -9209,7 +9209,7 @@
           "playerId": 18488,
           "rank": 172,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -9838,7 +9838,7 @@
           "playerId": 840,
           "rank": 4,
           "points": 80,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -11734,7 +11734,7 @@
           "playerId": 840,
           "rank": 154,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -11846,7 +11846,7 @@
           "playerId": 18488,
           "rank": 181,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -12706,7 +12706,7 @@
           "playerId": 18488,
           "rank": 70,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -12909,7 +12909,7 @@
           "playerId": 840,
           "rank": 121,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -14308,7 +14308,7 @@
           "playerId": 840,
           "rank": 143,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -14644,7 +14644,7 @@
           "playerId": 18488,
           "rank": 251,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -15028,7 +15028,7 @@
           "playerId": 840,
           "rank": 7,
           "points": 75,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -15112,7 +15112,7 @@
           "playerId": 25098,
           "rank": 27,
           "points": 25,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "kevinkodama"
         },
         {
@@ -15399,7 +15399,7 @@
           "playerId": 18488,
           "rank": 86,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -16574,7 +16574,7 @@
           "playerId": 840,
           "rank": 75,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -17868,7 +17868,7 @@
           "playerId": 840,
           "rank": 139,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -18910,7 +18910,7 @@
           "playerId": 18488,
           "rank": 149,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Parias2013"
         },
         {
@@ -19050,7 +19050,7 @@
           "playerId": 840,
           "rank": 199,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -20155,7 +20155,7 @@
           "playerId": 840,
           "rank": 176,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -20553,7 +20553,7 @@
           "playerId": 840,
           "rank": 10,
           "points": 65,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "gogauth08"
         },
         {
@@ -21001,7 +21001,7 @@
           "playerId": 35986,
           "rank": 119,
           "points": 10,
-          "isPlatinum": true,
+          "isPlatinum": false,
           "username": "Gringobzh"
         },
         {
@@ -21029,7 +21029,7 @@
           "playerId": 25098,
           "rank": 125,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "kevinkodama"
         },
         {
