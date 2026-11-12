@@ -7095,7 +7095,7 @@
       "playerId": 91456,
       "rank": 886,
       "points": 10,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "infomillion82",
       "nPlayed": 1
     },
@@ -36280,7 +36280,7 @@
           "playerId": 91456,
           "rank": 184,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "infomillion82"
         },
         {
@@ -42115,6 +42115,7 @@
     }
   ],
   "alreadyQualified": [
+    94984,
     81820,
     28463,
     93403,
