@@ -31,7 +31,7 @@
       "playerId": 73607,
       "rank": 3,
       "points": 310,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "RacineCarree",
       "nPlayed": 10
     },
@@ -2151,7 +2151,7 @@
       "playerId": 98907,
       "rank": 268,
       "points": 65,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "Hitmen",
       "nPlayed": 2
     },
@@ -6842,7 +6842,7 @@
           "playerId": 73607,
           "rank": 188,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -7653,7 +7653,7 @@
           "playerId": 73607,
           "rank": 14,
           "points": 55,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -11614,7 +11614,7 @@
           "playerId": 73607,
           "rank": 258,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -12145,7 +12145,7 @@
           "playerId": 73607,
           "rank": 2,
           "points": 90,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -14594,7 +14594,7 @@
           "playerId": 73607,
           "rank": 19,
           "points": 45,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -17764,7 +17764,7 @@
           "playerId": 73607,
           "rank": 165,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -19548,7 +19548,7 @@
           "playerId": 73607,
           "rank": 124,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -20835,7 +20835,7 @@
           "playerId": 73607,
           "rank": 13,
           "points": 60,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -22836,7 +22836,7 @@
           "playerId": 98907,
           "rank": 14,
           "points": 55,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "Hitmen"
         },
         {
@@ -23802,7 +23802,7 @@
           "playerId": 73607,
           "rank": 152,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -25474,7 +25474,7 @@
           "playerId": 73607,
           "rank": 95,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "RacineCarree"
         },
         {
@@ -25957,7 +25957,7 @@
           "playerId": 98907,
           "rank": 164,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "Hitmen"
         },
         {
