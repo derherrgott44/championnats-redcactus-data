@@ -1,0 +1,180 @@
+{
+  "id": 10330,
+  "name": "Buffalo Grill (Les Herbiers) - Mercredi",
+  "semiFinalNQualified": 1,
+  "bar": {
+    "id": 2372,
+    "name": "Buffalo Grill (Les Herbiers)",
+    "isPremium": true
+  },
+  "startDate": "2026-11-18T00:00:00+01:00",
+  "endDate": "2027-01-10T00:00:00+01:00",
+  "hasPlayoff": true,
+  "ranking": [
+    {
+      "playerId": 98106,
+      "rank": 1,
+      "points": 70,
+      "isPlatinum": false,
+      "username": "cv-gate",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 72080,
+      "rank": 2,
+      "points": 50,
+      "isPlatinum": false,
+      "username": "NeoSonic",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 66676,
+      "rank": 3,
+      "points": 40,
+      "isPlatinum": false,
+      "username": "batist",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 101615,
+      "rank": 4,
+      "points": 30,
+      "isPlatinum": false,
+      "username": "rico 85",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 82211,
+      "rank": 5,
+      "points": 20,
+      "isPlatinum": false,
+      "username": "lestyle",
+      "nPlayed": 1
+    }
+  ],
+  "tourneys": [
+    {
+      "id": 135183,
+      "startDate": 1795024800,
+      "ranking": [
+        {
+          "playerId": 98106,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "cv-gate"
+        },
+        {
+          "playerId": 72080,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "NeoSonic"
+        },
+        {
+          "playerId": 66676,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "batist"
+        },
+        {
+          "playerId": 101615,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "rico 85"
+        },
+        {
+          "playerId": 82211,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "lestyle"
+        }
+      ]
+    },
+    {
+      "id": 135184,
+      "startDate": 1795629600,
+      "ranking": []
+    },
+    {
+      "id": 135185,
+      "startDate": 1796234400,
+      "ranking": []
+    },
+    {
+      "id": 135186,
+      "startDate": 1796839200,
+      "ranking": []
+    },
+    {
+      "id": 135187,
+      "startDate": 1797444000,
+      "ranking": []
+    },
+    {
+      "id": 135188,
+      "startDate": 1798048800,
+      "ranking": []
+    },
+    {
+      "id": 135189,
+      "startDate": 1798653600,
+      "ranking": []
+    }
+  ],
+  "alreadyQualified": [
+    94984,
+    81820,
+    28463,
+    93403,
+    78428
+  ],
+  "playoffDate": "2027-01-06T19:00:00+01:00",
+  "playoffRanking": [
+    {
+      "playerId": 72080,
+      "rank": 2,
+      "championshipRank": 2,
+      "isPlatinum": false,
+      "username": "NeoSonic",
+      "initialStack": 1100,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 66676,
+      "rank": 3,
+      "championshipRank": 3,
+      "isPlatinum": false,
+      "username": "batist",
+      "initialStack": 1100,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 101615,
+      "rank": 4,
+      "championshipRank": 4,
+      "isPlatinum": false,
+      "username": "rico 85",
+      "initialStack": 1100,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 82211,
+      "rank": 5,
+      "championshipRank": 5,
+      "isPlatinum": false,
+      "username": "lestyle",
+      "initialStack": 1050,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    }
+  ],
+  "playoffFinished": false,
+  "playoffMaxRank": 9
+}
