@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "playerId": 66676,
+  "username": "batist",
+  "seasons": {
+    "27": {
+      "seasonId": 27,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "28": {
+      "seasonId": 28,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "29": {
+      "seasonId": 29,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "30": {
+      "seasonId": 30,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "31": {
+      "seasonId": 31,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "32": {
+      "seasonId": 32,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "33": {
+      "seasonId": 33,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "34": {
+      "seasonId": 34,
+      "playerId": 66676,
+      "championships": [
+        "7012"
+      ],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "35": {
+      "seasonId": 35,
+      "playerId": 66676,
+      "championships": [
+        "7440",
+        "7471"
+      ],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "36": {
+      "seasonId": 36,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "37": {
+      "seasonId": 37,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "38": {
+      "seasonId": 38,
+      "playerId": 66676,
+      "championships": [],
+      "checkedAt": "2026-11-19T09:49:15.570Z"
+    },
+    "39": {
+      "championships": [
+        "10330"
+      ],
+      "seasonId": 39,
+      "playerId": 66676,
+      "updatedAt": "2026-11-19T09:49:09.527Z"
+    }
+  }
+}
