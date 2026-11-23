@@ -2519,7 +2519,7 @@
       "playerId": 23033,
       "rank": 314,
       "points": 50,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "wiweer",
       "nPlayed": 3
     },
@@ -7744,7 +7744,7 @@
           "playerId": 23033,
           "rank": 27,
           "points": 25,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "wiweer"
         },
         {
@@ -11810,7 +11810,7 @@
           "playerId": 23033,
           "rank": 286,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "wiweer"
         },
         {
@@ -23039,7 +23039,7 @@
           "playerId": 23033,
           "rank": 43,
           "points": 15,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "wiweer"
         },
         {

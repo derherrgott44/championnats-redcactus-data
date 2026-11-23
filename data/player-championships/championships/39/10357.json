@@ -1,7 +1,7 @@
 {
   "id": 10357,
   "name": "Illusion - Mardi",
-  "semiFinalNQualified": 1,
+  "semiFinalNQualified": 2,
   "bar": {
     "id": 2386,
     "name": "Illusion",
@@ -376,16 +376,6 @@
   "playoffDate": "2027-01-05T19:30:00+01:00",
   "playoffRanking": [
     {
-      "playerId": 98821,
-      "rank": 2,
-      "championshipRank": 2,
-      "isPlatinum": false,
-      "username": "K@izen",
-      "initialStack": 900,
-      "qualifiedToLive": false,
-      "qualifiedToOnline": false
-    },
-    {
       "playerId": 95470,
       "rank": 3,
       "championshipRank": 3,
@@ -454,8 +444,88 @@
       "initialStack": 550,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
+    },
+    {
+      "playerId": 94424,
+      "rank": 10,
+      "championshipRank": 10,
+      "isPlatinum": false,
+      "username": "TapisMan44",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 78865,
+      "rank": 11,
+      "championshipRank": 11,
+      "isPlatinum": false,
+      "username": "Toma 44",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 95098,
+      "rank": 12,
+      "championshipRank": 12,
+      "isPlatinum": false,
+      "username": "C***R*",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 1862,
+      "rank": 13,
+      "championshipRank": 13,
+      "isPlatinum": true,
+      "username": "arthemus",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 94694,
+      "rank": 14,
+      "championshipRank": 14,
+      "isPlatinum": false,
+      "username": "Milton77",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 92017,
+      "rank": 15,
+      "championshipRank": 15,
+      "isPlatinum": false,
+      "username": "ENIOTNA",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 92085,
+      "rank": 16,
+      "championshipRank": 16,
+      "isPlatinum": false,
+      "username": "Darongby",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 93903,
+      "rank": 17,
+      "championshipRank": 17,
+      "isPlatinum": false,
+      "username": "Bambou233",
+      "initialStack": 550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
     }
   ],
   "playoffFinished": false,
-  "playoffMaxRank": 9
+  "playoffMaxRank": 18
 }
