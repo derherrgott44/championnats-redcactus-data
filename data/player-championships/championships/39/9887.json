@@ -14,82 +14,82 @@
     {
       "playerId": 61065,
       "rank": 1,
-      "points": 590,
+      "points": 610,
       "isPlatinum": false,
       "username": "lyly85",
-      "nPlayed": 11
+      "nPlayed": 12
     },
     {
       "playerId": 61071,
       "rank": 2,
-      "points": 540,
+      "points": 570,
       "isPlatinum": false,
       "username": "Mr perruche",
-      "nPlayed": 11
+      "nPlayed": 12
     },
     {
       "playerId": 79485,
       "rank": 3,
-      "points": 520,
+      "points": 560,
       "isPlatinum": false,
       "username": "Sthephy07",
-      "nPlayed": 10
+      "nPlayed": 11
     },
     {
       "playerId": 58369,
       "rank": 4,
-      "points": 460,
+      "points": 520,
       "isPlatinum": false,
       "username": "TITAN",
-      "nPlayed": 11
+      "nPlayed": 12
     },
     {
       "playerId": 94351,
       "rank": 5,
-      "points": 430,
+      "points": 500,
       "isPlatinum": false,
       "username": "Tyzefa",
-      "nPlayed": 7
+      "nPlayed": 8
+    },
+    {
+      "playerId": 79476,
+      "rank": 6,
+      "points": 430,
+      "isPlatinum": false,
+      "username": "sophinette22",
+      "nPlayed": 10
+    },
+    {
+      "playerId": 81649,
+      "rank": 7,
+      "points": 415,
+      "isPlatinum": false,
+      "username": "jeanmarco",
+      "nPlayed": 6
     },
     {
       "playerId": 60599,
-      "rank": 6,
+      "rank": 8,
       "points": 400,
       "isPlatinum": false,
       "username": "Dimroy",
       "nPlayed": 9
     },
     {
-      "playerId": 79476,
-      "rank": 7,
-      "points": 395,
-      "isPlatinum": false,
-      "username": "sophinette22",
-      "nPlayed": 9
-    },
-    {
       "playerId": 40631,
-      "rank": 8,
+      "rank": 9,
       "points": 340,
       "isPlatinum": false,
       "username": "White-V2",
       "nPlayed": 6
     },
     {
-      "playerId": 81649,
-      "rank": 9,
-      "points": 335,
-      "isPlatinum": false,
-      "username": "jeanmarco",
-      "nPlayed": 5
-    },
-    {
       "playerId": 71002,
       "rank": 10,
-      "points": 270,
+      "points": 295,
       "isPlatinum": false,
       "username": "Davidson",
-      "nPlayed": 8
+      "nPlayed": 9
     },
     {
       "playerId": 66986,
@@ -102,18 +102,18 @@
     {
       "playerId": 38714,
       "rank": 12,
-      "points": 160,
+      "points": 210,
       "isPlatinum": false,
       "username": "alex_axts",
-      "nPlayed": 3
+      "nPlayed": 4
     },
     {
       "playerId": 82873,
       "rank": 13,
-      "points": 85,
+      "points": 185,
       "isPlatinum": false,
       "username": "jicer",
-      "nPlayed": 2
+      "nPlayed": 3
     },
     {
       "playerId": 98499,
@@ -140,8 +140,16 @@
       "nPlayed": 2
     },
     {
-      "playerId": 82403,
+      "playerId": 66192,
       "rank": 17,
+      "points": 50,
+      "isPlatinum": false,
+      "username": "zia85",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 82403,
+      "rank": 18,
       "points": 40,
       "isPlatinum": false,
       "username": "Pierrot-soufati",
@@ -149,19 +157,11 @@
     },
     {
       "playerId": 39259,
-      "rank": 18,
+      "rank": 19,
       "points": 35,
       "isPlatinum": false,
       "username": "Anselme_bro",
       "nPlayed": 1
-    },
-    {
-      "playerId": 66192,
-      "rank": 19,
-      "points": 35,
-      "isPlatinum": false,
-      "username": "zia85",
-      "nPlayed": 2
     },
     {
       "playerId": 90780,
@@ -1020,7 +1020,85 @@
     {
       "id": 128137,
       "startDate": 1795630500,
-      "ranking": []
+      "ranking": [
+        {
+          "playerId": 82873,
+          "rank": 1,
+          "points": 100,
+          "isPlatinum": false,
+          "username": "jicer"
+        },
+        {
+          "playerId": 81649,
+          "rank": 2,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "jeanmarco"
+        },
+        {
+          "playerId": 94351,
+          "rank": 3,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "Tyzefa"
+        },
+        {
+          "playerId": 58369,
+          "rank": 4,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "TITAN"
+        },
+        {
+          "playerId": 38714,
+          "rank": 5,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "alex_axts"
+        },
+        {
+          "playerId": 79485,
+          "rank": 6,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "Sthephy07"
+        },
+        {
+          "playerId": 79476,
+          "rank": 7,
+          "points": 35,
+          "isPlatinum": false,
+          "username": "sophinette22"
+        },
+        {
+          "playerId": 61071,
+          "rank": 8,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Mr perruche"
+        },
+        {
+          "playerId": 71002,
+          "rank": 9,
+          "points": 25,
+          "isPlatinum": false,
+          "username": "Davidson"
+        },
+        {
+          "playerId": 61065,
+          "rank": 10,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "lyly85"
+        },
+        {
+          "playerId": 66192,
+          "rank": 11,
+          "points": 15,
+          "isPlatinum": false,
+          "username": "zia85"
+        }
+      ]
     },
     {
       "id": 128138,
@@ -1050,6 +1128,7 @@
   ],
   "alreadyQualified": [
     94984,
+    90633,
     81820,
     28463,
     93403,
@@ -1063,7 +1142,7 @@
       "championshipRank": 3,
       "isPlatinum": false,
       "username": "Sthephy07",
-      "initialStack": 5700,
+      "initialStack": 6700,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1073,7 +1152,7 @@
       "championshipRank": 4,
       "isPlatinum": false,
       "username": "TITAN",
-      "initialStack": 5600,
+      "initialStack": 6750,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1083,14 +1162,34 @@
       "championshipRank": 5,
       "isPlatinum": false,
       "username": "Tyzefa",
-      "initialStack": 3550,
+      "initialStack": 4500,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 79476,
+      "rank": 6,
+      "championshipRank": 6,
+      "isPlatinum": false,
+      "username": "sophinette22",
+      "initialStack": 4800,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 81649,
+      "rank": 7,
+      "championshipRank": 7,
+      "isPlatinum": false,
+      "username": "jeanmarco",
+      "initialStack": 3000,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
     {
       "playerId": 60599,
-      "rank": 6,
-      "championshipRank": 6,
+      "rank": 8,
+      "championshipRank": 8,
       "isPlatinum": false,
       "username": "Dimroy",
       "initialStack": 4100,
@@ -1098,32 +1197,12 @@
       "qualifiedToOnline": false
     },
     {
-      "playerId": 79476,
-      "rank": 7,
-      "championshipRank": 7,
-      "isPlatinum": false,
-      "username": "sophinette22",
-      "initialStack": 4100,
-      "qualifiedToLive": false,
-      "qualifiedToOnline": false
-    },
-    {
       "playerId": 40631,
-      "rank": 8,
-      "championshipRank": 8,
-      "isPlatinum": false,
-      "username": "White-V2",
-      "initialStack": 2550,
-      "qualifiedToLive": false,
-      "qualifiedToOnline": false
-    },
-    {
-      "playerId": 81649,
       "rank": 9,
       "championshipRank": 9,
       "isPlatinum": false,
-      "username": "jeanmarco",
-      "initialStack": 2200,
+      "username": "White-V2",
+      "initialStack": 2550,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1133,7 +1212,7 @@
       "championshipRank": 10,
       "isPlatinum": false,
       "username": "Davidson",
-      "initialStack": 2700,
+      "initialStack": 3200,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1153,7 +1232,7 @@
       "championshipRank": 12,
       "isPlatinum": false,
       "username": "alex_axts",
-      "initialStack": 1000,
+      "initialStack": 1350,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1163,7 +1242,7 @@
       "championshipRank": 13,
       "isPlatinum": false,
       "username": "jicer",
-      "initialStack": 700,
+      "initialStack": 1100,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
@@ -1198,21 +1277,21 @@
       "qualifiedToOnline": false
     },
     {
-      "playerId": 82403,
+      "playerId": 66192,
       "rank": 17,
       "championshipRank": 17,
       "isPlatinum": false,
-      "username": "Pierrot-soufati",
-      "initialStack": 550,
+      "username": "zia85",
+      "initialStack": 650,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
     },
     {
-      "playerId": 39259,
+      "playerId": 82403,
       "rank": 18,
       "championshipRank": 18,
       "isPlatinum": false,
-      "username": "Anselme_bro",
+      "username": "Pierrot-soufati",
       "initialStack": 550,
       "qualifiedToLive": false,
       "qualifiedToOnline": false

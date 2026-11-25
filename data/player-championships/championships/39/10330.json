@@ -14,14 +14,22 @@
     {
       "playerId": 98106,
       "rank": 1,
-      "points": 70,
+      "points": 110,
       "isPlatinum": false,
       "username": "cv-gate",
-      "nPlayed": 1
+      "nPlayed": 2
+    },
+    {
+      "playerId": 101615,
+      "rank": 2,
+      "points": 50,
+      "isPlatinum": false,
+      "username": "rico 85",
+      "nPlayed": 2
     },
     {
       "playerId": 72080,
-      "rank": 2,
+      "rank": 3,
       "points": 50,
       "isPlatinum": false,
       "username": "NeoSonic",
@@ -29,18 +37,10 @@
     },
     {
       "playerId": 66676,
-      "rank": 3,
+      "rank": 4,
       "points": 40,
       "isPlatinum": false,
       "username": "batist",
-      "nPlayed": 1
-    },
-    {
-      "playerId": 101615,
-      "rank": 4,
-      "points": 30,
-      "isPlatinum": false,
-      "username": "rico 85",
       "nPlayed": 1
     },
     {
@@ -97,7 +97,22 @@
     {
       "id": 135184,
       "startDate": 1795629600,
-      "ranking": []
+      "ranking": [
+        {
+          "playerId": 98106,
+          "rank": 1,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "cv-gate"
+        },
+        {
+          "playerId": 101615,
+          "rank": 2,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "rico 85"
+        }
+      ]
     },
     {
       "id": 135185,
@@ -127,6 +142,7 @@
   ],
   "alreadyQualified": [
     94984,
+    90633,
     81820,
     28463,
     93403,
@@ -135,9 +151,19 @@
   "playoffDate": "2027-01-06T19:00:00+01:00",
   "playoffRanking": [
     {
-      "playerId": 72080,
+      "playerId": 101615,
       "rank": 2,
       "championshipRank": 2,
+      "isPlatinum": false,
+      "username": "rico 85",
+      "initialStack": 1200,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 72080,
+      "rank": 3,
+      "championshipRank": 3,
       "isPlatinum": false,
       "username": "NeoSonic",
       "initialStack": 1100,
@@ -146,20 +172,10 @@
     },
     {
       "playerId": 66676,
-      "rank": 3,
-      "championshipRank": 3,
-      "isPlatinum": false,
-      "username": "batist",
-      "initialStack": 1100,
-      "qualifiedToLive": false,
-      "qualifiedToOnline": false
-    },
-    {
-      "playerId": 101615,
       "rank": 4,
       "championshipRank": 4,
       "isPlatinum": false,
-      "username": "rico 85",
+      "username": "batist",
       "initialStack": 1100,
       "qualifiedToLive": false,
       "qualifiedToOnline": false
