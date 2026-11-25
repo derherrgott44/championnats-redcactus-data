@@ -207,7 +207,7 @@
       "playerId": 57475,
       "rank": 25,
       "points": 120,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "arzakian",
       "nPlayed": 5
     },
@@ -2018,7 +2018,7 @@
           "playerId": 57475,
           "rank": 12,
           "points": 15,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "arzakian"
         },
         {
@@ -2247,7 +2247,7 @@
           "playerId": 57475,
           "rank": 4,
           "points": 60,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "arzakian"
         },
         {
@@ -2484,7 +2484,7 @@
           "playerId": 57475,
           "rank": 22,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "arzakian"
         }
       ]
@@ -2602,7 +2602,7 @@
           "playerId": 57475,
           "rank": 16,
           "points": 10,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "arzakian"
         },
         {
@@ -2727,7 +2727,7 @@
           "playerId": 57475,
           "rank": 10,
           "points": 25,
-          "isPlatinum": false,
+          "isPlatinum": true,
           "username": "arzakian"
         },
         {
@@ -5121,7 +5121,7 @@
       "playerId": 57475,
       "rank": 12,
       "championshipRank": 25,
-      "isPlatinum": false,
+      "isPlatinum": true,
       "username": "arzakian",
       "initialStack": 1100,
       "qualifiedToLive": false,
