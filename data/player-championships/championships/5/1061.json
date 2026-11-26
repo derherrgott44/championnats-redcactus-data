@@ -1,0 +1,1049 @@
+{
+  "id": 1061,
+  "name": "Cocoon Bar",
+  "semiFinalNQualified": 1,
+  "bar": {
+    "id": 1063,
+    "name": "Cocoon Bar",
+    "isPremium": false
+  },
+  "startDate": "2017-10-02T00:00:00+02:00",
+  "endDate": "2017-12-31T00:00:00+01:00",
+  "hasPlayoff": true,
+  "ranking": [
+    {
+      "playerId": 864,
+      "rank": 1,
+      "points": 580,
+      "isPlatinum": false,
+      "username": "LA PTITE LULU",
+      "nPlayed": 12
+    },
+    {
+      "playerId": 5530,
+      "rank": 2,
+      "points": 380,
+      "isPlatinum": false,
+      "username": "katana44",
+      "nPlayed": 11
+    },
+    {
+      "playerId": 2643,
+      "rank": 3,
+      "points": 290,
+      "isPlatinum": false,
+      "username": "cedric 85",
+      "nPlayed": 7
+    },
+    {
+      "playerId": 2091,
+      "rank": 4,
+      "points": 280,
+      "isPlatinum": false,
+      "username": "delphine zzr",
+      "nPlayed": 6
+    },
+    {
+      "playerId": 8398,
+      "rank": 5,
+      "points": 120,
+      "isPlatinum": false,
+      "username": "Grandedd",
+      "nPlayed": 3
+    },
+    {
+      "playerId": 2239,
+      "rank": 6,
+      "points": 110,
+      "isPlatinum": false,
+      "username": "Franou",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 8879,
+      "rank": 7,
+      "points": 110,
+      "isPlatinum": false,
+      "username": "l'europeen",
+      "nPlayed": 4
+    },
+    {
+      "playerId": 4643,
+      "rank": 8,
+      "points": 60,
+      "isPlatinum": false,
+      "username": "titi85220",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 866,
+      "rank": 9,
+      "points": 40,
+      "isPlatinum": false,
+      "username": "LAO",
+      "nPlayed": 2
+    },
+    {
+      "playerId": 8399,
+      "rank": 10,
+      "points": 40,
+      "isPlatinum": false,
+      "username": "francky85",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 859,
+      "rank": 11,
+      "points": 30,
+      "isPlatinum": false,
+      "username": "BABAS85",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 4941,
+      "rank": 12,
+      "points": 20,
+      "isPlatinum": false,
+      "username": "nimama",
+      "nPlayed": 1
+    },
+    {
+      "playerId": 9202,
+      "rank": 13,
+      "points": 20,
+      "isPlatinum": false,
+      "username": "Cookie44",
+      "nPlayed": 1
+    }
+  ],
+  "tourneys": [
+    {
+      "id": 6646,
+      "startDate": 1507138200,
+      "ranking": [
+        {
+          "playerId": 2091,
+          "rank": 1,
+          "points": 80,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        },
+        {
+          "playerId": 4643,
+          "rank": 2,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "titi85220"
+        },
+        {
+          "playerId": 864,
+          "rank": 3,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 8399,
+          "rank": 4,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "francky85"
+        },
+        {
+          "playerId": 8398,
+          "rank": 5,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Grandedd"
+        },
+        {
+          "playerId": 5530,
+          "rank": 6,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "katana44"
+        }
+      ]
+    },
+    {
+      "id": 6546,
+      "startDate": 1507743000,
+      "ranking": [
+        {
+          "playerId": 8398,
+          "rank": 1,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Grandedd"
+        },
+        {
+          "playerId": 864,
+          "rank": 2,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 859,
+          "rank": 3,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "BABAS85"
+        },
+        {
+          "playerId": 4941,
+          "rank": 4,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "nimama"
+        }
+      ]
+    },
+    {
+      "id": 6571,
+      "startDate": 1508347800,
+      "ranking": [
+        {
+          "playerId": 864,
+          "rank": 1,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 2,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 2091,
+          "rank": 3,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        }
+      ]
+    },
+    {
+      "id": 6672,
+      "startDate": 1508952600,
+      "ranking": [
+        {
+          "playerId": 2091,
+          "rank": 1,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        },
+        {
+          "playerId": 864,
+          "rank": 2,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 3,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "katana44"
+        }
+      ]
+    },
+    {
+      "id": 6621,
+      "startDate": 1509561000,
+      "ranking": [
+        {
+          "playerId": 5530,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 2239,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "Franou"
+        },
+        {
+          "playerId": 864,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 8398,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "Grandedd"
+        },
+        {
+          "playerId": 2091,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        }
+      ]
+    },
+    {
+      "id": 6596,
+      "startDate": 1510165800,
+      "ranking": [
+        {
+          "playerId": 2239,
+          "rank": 1,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "Franou"
+        },
+        {
+          "playerId": 864,
+          "rank": 2,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 3,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 2643,
+          "rank": 4,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        }
+      ]
+    },
+    {
+      "id": 6521,
+      "startDate": 1510770600,
+      "ranking": [
+        {
+          "playerId": 2091,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        },
+        {
+          "playerId": 2643,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 864,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 8879,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "l'europeen"
+        }
+      ]
+    },
+    {
+      "id": 6496,
+      "startDate": 1511375400,
+      "ranking": [
+        {
+          "playerId": 2643,
+          "rank": 1,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 5530,
+          "rank": 2,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 864,
+          "rank": 3,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        }
+      ]
+    },
+    {
+      "id": 6647,
+      "startDate": 1511980200,
+      "ranking": [
+        {
+          "playerId": 864,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 2643,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 5530,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 8879,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "l'europeen"
+        },
+        {
+          "playerId": 9202,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "Cookie44"
+        }
+      ]
+    },
+    {
+      "id": 6547,
+      "startDate": 1512585000,
+      "ranking": [
+        {
+          "playerId": 864,
+          "rank": 1,
+          "points": 60,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 2,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 2643,
+          "rank": 3,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 866,
+          "rank": 4,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "LAO"
+        }
+      ]
+    },
+    {
+      "id": 6572,
+      "startDate": 1513189800,
+      "ranking": [
+        {
+          "playerId": 864,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 2643,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 2091,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "delphine zzr"
+        },
+        {
+          "playerId": 8879,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "l'europeen"
+        },
+        {
+          "playerId": 5530,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "katana44"
+        }
+      ]
+    },
+    {
+      "id": 6673,
+      "startDate": 1513794600,
+      "ranking": [
+        {
+          "playerId": 864,
+          "rank": 1,
+          "points": 70,
+          "isPlatinum": false,
+          "username": "LA PTITE LULU"
+        },
+        {
+          "playerId": 5530,
+          "rank": 2,
+          "points": 50,
+          "isPlatinum": false,
+          "username": "katana44"
+        },
+        {
+          "playerId": 2643,
+          "rank": 3,
+          "points": 40,
+          "isPlatinum": false,
+          "username": "cedric 85"
+        },
+        {
+          "playerId": 8879,
+          "rank": 4,
+          "points": 30,
+          "isPlatinum": false,
+          "username": "l'europeen"
+        },
+        {
+          "playerId": 866,
+          "rank": 5,
+          "points": 20,
+          "isPlatinum": false,
+          "username": "LAO"
+        }
+      ]
+    },
+    {
+      "id": 6622,
+      "startDate": 1514399400,
+      "ranking": []
+    }
+  ],
+  "alreadyQualified": [
+    370,
+    1188,
+    1324,
+    1477,
+    1588,
+    1612,
+    1761,
+    1893,
+    1944,
+    1994,
+    2037,
+    2061,
+    2113,
+    2115,
+    2216,
+    2369,
+    2377,
+    2453,
+    2469,
+    2479,
+    2505,
+    2788,
+    2797,
+    2820,
+    2839,
+    2920,
+    3338,
+    3345,
+    3607,
+    3713,
+    3932,
+    3942,
+    3947,
+    4164,
+    4261,
+    4351,
+    4411,
+    4810,
+    4939,
+    5063,
+    5385,
+    5393,
+    5732,
+    5855,
+    6182,
+    6192,
+    6244,
+    6363,
+    7103,
+    7600,
+    7645,
+    7827,
+    7829,
+    7852,
+    8066,
+    48,
+    81,
+    153,
+    259,
+    312,
+    480,
+    483,
+    491,
+    605,
+    631,
+    653,
+    668,
+    680,
+    683,
+    798,
+    804,
+    868,
+    919,
+    981,
+    985,
+    998,
+    1031,
+    1067,
+    1163,
+    1212,
+    1286,
+    1434,
+    1435,
+    1446,
+    1519,
+    1806,
+    1875,
+    2016,
+    2109,
+    2242,
+    2368,
+    2396,
+    2445,
+    2545,
+    2550,
+    2577,
+    2657,
+    2757,
+    2809,
+    2812,
+    2831,
+    3480,
+    3567,
+    4095,
+    4170,
+    4210,
+    4288,
+    4365,
+    4525,
+    4547,
+    4647,
+    4655,
+    4668,
+    4782,
+    4873,
+    5533,
+    6217,
+    6278,
+    6644,
+    6748,
+    7006,
+    7088,
+    7373,
+    7448,
+    7449,
+    7755,
+    7815,
+    7898,
+    8215,
+    8354,
+    8816,
+    8831,
+    8840,
+    8927,
+    9083,
+    9102,
+    9103,
+    9110,
+    9441,
+    24,
+    308,
+    412,
+    746,
+    749,
+    815,
+    818,
+    863,
+    907,
+    969,
+    1020,
+    1087,
+    1269,
+    1353,
+    1396,
+    1508,
+    1726,
+    1731,
+    1785,
+    1801,
+    1826,
+    1873,
+    2143,
+    2625,
+    2824,
+    2960,
+    3268,
+    3270,
+    3288,
+    3321,
+    3356,
+    3563,
+    3720,
+    3845,
+    3900,
+    3941,
+    3949,
+    4033,
+    4069,
+    4258,
+    4335,
+    4385,
+    4406,
+    4518,
+    4882,
+    4933,
+    4979,
+    5016,
+    5279,
+    5452,
+    5622,
+    5629,
+    5696,
+    5723,
+    6238,
+    7277,
+    7281,
+    7326,
+    7416,
+    7624,
+    7844,
+    7849,
+    7856,
+    8036,
+    8060,
+    8088,
+    8230,
+    8241,
+    8832,
+    8846,
+    8963,
+    9149,
+    9303,
+    9368,
+    157,
+    506,
+    514,
+    644,
+    782,
+    864,
+    916,
+    946,
+    972,
+    1036,
+    1060,
+    1104,
+    1129,
+    1162,
+    1167,
+    1228,
+    1382,
+    1387,
+    1466,
+    1526,
+    1760,
+    1841,
+    1860,
+    2077,
+    2209,
+    2314,
+    2325,
+    2389,
+    2474,
+    2939,
+    2995,
+    3007,
+    3036,
+    3071,
+    3111,
+    3341,
+    3499,
+    3537,
+    3707,
+    3750,
+    3924,
+    4493,
+    5170,
+    5374,
+    6572,
+    7037,
+    7136,
+    7156,
+    7408,
+    7430,
+    7524,
+    7589,
+    7633,
+    7737,
+    7833,
+    7982,
+    8040,
+    8099,
+    8119,
+    8132,
+    8316,
+    8322,
+    8342,
+    8353,
+    8447,
+    8537,
+    8546,
+    8612,
+    8812,
+    28,
+    954,
+    1565,
+    1566,
+    1567,
+    1591,
+    1646,
+    2044,
+    2250,
+    2321,
+    2606,
+    2698,
+    2907,
+    3013,
+    3031,
+    3040,
+    3045,
+    3054,
+    3088,
+    3133,
+    3292,
+    3385,
+    3389,
+    3412,
+    3524,
+    3569,
+    3730,
+    3768,
+    4006,
+    4256,
+    4284,
+    5443,
+    6310,
+    6313,
+    6733,
+    8071,
+    8075,
+    8080,
+    8162,
+    8209,
+    8216,
+    8520,
+    9078,
+    9080,
+    9136,
+    9146,
+    568,
+    858,
+    950,
+    961,
+    1012,
+    1054,
+    1417,
+    1431,
+    1500,
+    1507,
+    1510,
+    1645,
+    1663,
+    1686,
+    1777,
+    1798,
+    1800,
+    1804,
+    1912,
+    2070,
+    2349,
+    2459,
+    2487,
+    2513,
+    2560,
+    2561,
+    2628,
+    2647,
+    2752,
+    3151,
+    3153,
+    3442,
+    3468,
+    3472,
+    3564,
+    3627,
+    3684,
+    3818,
+    3937,
+    3966,
+    4037,
+    4105,
+    4202,
+    4206,
+    4563,
+    4606,
+    4648,
+    4770,
+    4997,
+    5004,
+    5829,
+    6115,
+    7318,
+    7469,
+    7666,
+    7720,
+    7879,
+    7967,
+    8054,
+    8089,
+    8105,
+    8125,
+    8393,
+    8451,
+    8453,
+    8463,
+    8466,
+    8695,
+    8707,
+    8713,
+    9281,
+    9322
+  ],
+  "playoffDate": null,
+  "playoffRanking": [
+    {
+      "playerId": 5530,
+      "rank": 0,
+      "championshipRank": 2,
+      "isPlatinum": false,
+      "username": "katana44",
+      "initialStack": 4700,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 2643,
+      "rank": 0,
+      "championshipRank": 3,
+      "isPlatinum": false,
+      "username": "cedric 85",
+      "initialStack": 2550,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 2091,
+      "rank": 0,
+      "championshipRank": 4,
+      "isPlatinum": false,
+      "username": "delphine zzr",
+      "initialStack": 2200,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 8398,
+      "rank": 0,
+      "championshipRank": 5,
+      "isPlatinum": false,
+      "username": "Grandedd",
+      "initialStack": 900,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 2239,
+      "rank": 0,
+      "championshipRank": 6,
+      "isPlatinum": false,
+      "username": "Franou",
+      "initialStack": 750,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 8879,
+      "rank": 0,
+      "championshipRank": 7,
+      "isPlatinum": false,
+      "username": "l'europeen",
+      "initialStack": 950,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 4643,
+      "rank": 0,
+      "championshipRank": 8,
+      "isPlatinum": false,
+      "username": "titi85220",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    },
+    {
+      "playerId": 866,
+      "rank": 0,
+      "championshipRank": 9,
+      "isPlatinum": false,
+      "username": "LAO",
+      "initialStack": 600,
+      "qualifiedToLive": false,
+      "qualifiedToOnline": false
+    }
+  ],
+  "playoffFinished": false,
+  "playoffMaxRank": 9
+}

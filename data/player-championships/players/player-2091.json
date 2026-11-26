@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "playerId": 2091,
+  "username": "delphine zzr",
+  "seasons": {
+    "1": {
+      "seasonId": 1,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:14.298Z"
+    },
+    "2": {
+      "championships": [
+        "1422"
+      ],
+      "seasonId": 2,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:13.906Z"
+    },
+    "3": {
+      "championships": [
+        "500"
+      ],
+      "seasonId": 3,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:13.378Z"
+    },
+    "4": {
+      "seasonId": 4,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:13.006Z"
+    },
+    "5": {
+      "championships": [
+        "1061"
+      ],
+      "seasonId": 5,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:12.656Z"
+    },
+    "6": {
+      "seasonId": 6,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:12.289Z"
+    },
+    "7": {
+      "seasonId": 7,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:11.919Z"
+    },
+    "8": {
+      "seasonId": 8,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:11.555Z"
+    },
+    "9": {
+      "seasonId": 9,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:11.184Z"
+    },
+    "10": {
+      "seasonId": 10,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:10.832Z"
+    },
+    "11": {
+      "championships": [
+        "56"
+      ],
+      "seasonId": 11,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:10.493Z"
+    },
+    "12": {
+      "seasonId": 12,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:09.972Z"
+    },
+    "13": {
+      "seasonId": 13,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:09.628Z"
+    },
+    "14": {
+      "seasonId": 14,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:09.281Z"
+    },
+    "15": {
+      "seasonId": 15,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:08.926Z"
+    },
+    "16": {
+      "championships": [
+        "2553"
+      ],
+      "seasonId": 16,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:08.563Z"
+    },
+    "17": {
+      "championships": [
+        "2637"
+      ],
+      "seasonId": 17,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:08.010Z"
+    },
+    "18": {
+      "seasonId": 18,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:07.624Z"
+    },
+    "19": {
+      "seasonId": 19,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:07.262Z"
+    },
+    "20": {
+      "seasonId": 20,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:06.918Z"
+    },
+    "21": {
+      "seasonId": 21,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:06.565Z"
+    },
+    "22": {
+      "championships": [
+        "3238",
+        "3278"
+      ],
+      "seasonId": 22,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:06.193Z"
+    },
+    "23": {
+      "championships": [
+        "3338"
+      ],
+      "seasonId": 23,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:05.639Z"
+    },
+    "24": {
+      "seasonId": 24,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:05.224Z"
+    },
+    "25": {
+      "seasonId": 25,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:04.847Z"
+    },
+    "26": {
+      "seasonId": 26,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:04.480Z"
+    },
+    "27": {
+      "seasonId": 27,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:04.120Z"
+    },
+    "28": {
+      "seasonId": 28,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:03.756Z"
+    },
+    "29": {
+      "seasonId": 29,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:03.392Z"
+    },
+    "30": {
+      "seasonId": 30,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:03.040Z"
+    },
+    "31": {
+      "seasonId": 31,
+      "playerId": 2091,
+      "championships": [],
+      "checkedAt": "2026-11-26T16:03:02.680Z"
+    },
+    "32": {
+      "championships": [
+        "6103"
+      ],
+      "seasonId": 32,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:02.326Z"
+    },
+    "33": {
+      "championships": [
+        "6452"
+      ],
+      "seasonId": 33,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:01.903Z"
+    },
+    "34": {
+      "championships": [
+        "6933"
+      ],
+      "seasonId": 34,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:01.463Z"
+    },
+    "35": {
+      "championships": [
+        "7414",
+        "7571",
+        "7189"
+      ],
+      "seasonId": 35,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:03:01.028Z"
+    },
+    "36": {
+      "championships": [
+        "8072",
+        "7930",
+        "8132"
+      ],
+      "seasonId": 36,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:02:59.904Z"
+    },
+    "37": {
+      "championships": [
+        "8554",
+        "8736"
+      ],
+      "seasonId": 37,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:02:59.291Z"
+    },
+    "38": {
+      "championships": [
+        "9378",
+        "9349"
+      ],
+      "seasonId": 38,
+      "playerId": 2091,
+      "checkedAt": "2026-11-26T16:02:58.695Z"
+    },
+    "39": {
+      "championships": [
+        "9936"
+      ],
+      "seasonId": 39,
+      "playerId": 2091,
+      "updatedAt": "2026-11-26T16:02:58.118Z"
+    }
+  }
+}
